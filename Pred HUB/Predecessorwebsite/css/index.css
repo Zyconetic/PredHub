@@ -1,0 +1,188 @@
+/*Headers*/
+#Carry-header{
+	font-family: Stencil Std, fantasy, sans-serif;
+	font-size: 25px;
+	margin-bottom: -15px;
+	margin-top: -6px;
+	font-weight:normal;
+	background-color: Red;
+	color: Black;
+	border-bottom: -10px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 1px 3px;
+
+}
+
+#Support-header{
+	font-family: Stencil Std, fantasy, sans-serif;
+	font-size: 25px;
+	font-weight:normal;
+	background-color: grey;
+	color: Black;
+	border-bottom: -15px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 1px 3px;
+}
+
+#Mid-header{
+	font-family: Stencil Std, fantasy, sans-serif;
+	font-size: 25px;
+	font-weight:normal;
+	background-color: #3457D5;
+	color: Black;
+	border-bottom: -15px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 1px 3px;
+}
+
+#Solo-header{
+	font-family: Stencil Std, fantasy, sans-serif;
+	font-size: 25px;
+	font-weight:normal;
+	background-color: darkviolet;
+	color: Black;
+	border-bottom: -15px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 1px 3px;
+}
+
+#Jungler-header{
+	font-family: Stencil Std, fantasy, sans-serif;
+	font-size: 25px;
+	font-weight:normal;
+	background-color: Green;
+	color: Black;
+	border-bottom: -15px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 1px 3px;
+}
+
+#page-title{
+	
+	margin-bottom: 10px;
+	margin-top: -15px;
+	margin-right: 0px;
+	text-align:left;
+	color: White;
+	padding:15px 32px;
+	background-color: black;
+}
+
+#intro{
+	font-family: font-family: Georgia, serif;
+	font-size: 20px;
+	white-space: pre-wrap;
+	margin-bottom: 2px;
+	background-color: grey;
+	color: white;
+}
+
+#main-header{
+	background-color: grey;
+	text-align: center;
+
+}
+
+/*Paragraphs*/
+
+ a {
+ 	color: black;
+ 	text-decoration: none;
+ 	}
+
+ a:hover{
+ 	color: black;
+ 	margin: 3px 3px;
+ 	text-decoration: underline;
+ 	text-shadow: none;
+   }
+
+
+#pwr {
+ word-spacing: 200px;
+ font-family: "Impact" Charcoal, sans-serif;
+ font-style: oblique;
+ font-size: 1.7em;
+ font-weight: bold;
+ padding: -5px;
+ margin-bottom: 200px;
+ margin-top: 69px;
+ text-shadow: blue 5px 0 5px;
+}
+
+#her{
+	 word-spacing: 4px;
+
+}
+
+.container{
+	white-space: nowrap;
+	margin: auto;
+}
+
+
+
+/*pictures*/
+.predpic { 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  white-space: nowrap;
+  opacity: 0.9;
+}
+
+/*footer*/
+
+#index-footer {
+	font-family: font-family: Georgia, serif;
+	font-size: 20px;
+	margin-bottom: 2px;
+	color: White;
+	text-align: left;
+}
+
+/*Buttons*/
+
+.buibtn{
+  float: right;
+  background-color: transparent; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-family:"Arial Black", Gadget, sans-serif;
+   
+}
+
+.predbtn {
+  float: right;
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-family:"Arial Black", Gadget, sans-serif;
+}
+
+.predbtn:hover {
+	color: Red;
+	text-decoration: underline;
+}
+
+.buibtn:hover {
+	color: Red;
+	text-decoration: underline;
+}
+

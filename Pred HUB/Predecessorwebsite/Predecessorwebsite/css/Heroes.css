@@ -1,0 +1,222 @@
+/*Header*/
+#mured {
+	text-align: center;
+	background-color: red;
+	color: Black;
+	padding:10px;
+	border-bottom: -15px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 4px 5px;
+}
+
+#stee {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding:10px;
+}
+
+#Fang {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding:10px;
+}
+
+#gadhed {
+	text-align: center;
+	background-color: #3457D5;
+	color: Black;
+	padding:10px;
+	border-bottom: -2px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 4px 5px;
+}
+
+#gidhed {
+	text-align: center;
+	background-color: #3457D5;
+	color: Black;
+	padding:10px;
+	border-bottom: -2px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 4px 5px;
+}
+
+#Kalhed {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding:10px;
+}
+
+#Kha {
+	text-align: center;
+	background-color: Green;
+	color: Black;
+	padding:10px;
+	border-bottom: -2px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 4px 5px;
+}
+
+#Bel {
+	text-align: center;
+	background-color: #3457D5;
+	color: Black;
+	padding:10px;
+	border-bottom: -2px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 4px 5px;
+}
+
+#Sevhed {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding:10px;
+}
+
+#Murihed {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding:10px;
+}
+
+#Narhed {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding:10px;
+}
+
+#Sparhed {
+	text-align: center;
+	background-color: Red;
+	color: Black;
+	padding:10px;
+	border-bottom: -2px;
+	border-style: inset;
+	border-color: black;
+	box-shadow: 4px 5px;
+}
+
+/*body*/
+
+#murbody{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 16px;
+}
+
+
+
+#steebod{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#Mao{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#gadbod{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#gidbod{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#Kalbod{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#khi{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#Ltb{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#Sevbod{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#Muribod{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#Narbod{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 15px;
+}
+
+#Sparbod{
+	background-color: #f4f4f4;
+	color:#555555;
+	font-family: Tahoma, Genva, Sans-serif;
+	font-size: 16px;
+}
+
+/*Photo*/
+
+#kallimg{
+	padding-top: -18px; 
+	border: 5px black solid; 
+}
+
+#sevimg {
+	padding-top: -15px; 
+	border: 5px black solid;
+}
+
+#sparimg {
+	padding-top: -25px; 
+	border: 5px black solid; 
+}
+
+#steimg {
+	 border: 5px black solid; 
+}
+
+#Belimg {
+	padding-top: -25px; 
+	border: 5px black solid;
+}

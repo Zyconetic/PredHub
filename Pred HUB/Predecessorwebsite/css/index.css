@@ -9,7 +9,7 @@
 	color: Black;
 	border-bottom: -10px;
 	border-style: inset;
-	border-color: black;
+	border-color: white;
 	box-shadow: 1px 3px;
 
 }
@@ -22,7 +22,7 @@
 	color: Black;
 	border-bottom: -15px;
 	border-style: inset;
-	border-color: black;
+	border-color: white;
 	box-shadow: 1px 3px;
 }
 
@@ -34,7 +34,7 @@
 	color: Black;
 	border-bottom: -15px;
 	border-style: inset;
-	border-color: black;
+	border-color: white;
 	box-shadow: 1px 3px;
 }
 
@@ -46,7 +46,7 @@
 	color: Black;
 	border-bottom: -15px;
 	border-style: inset;
-	border-color: black;
+	border-color: white;
 	box-shadow: 1px 3px;
 }
 
@@ -58,7 +58,7 @@
 	color: Black;
 	border-bottom: -15px;
 	border-style: inset;
-	border-color: black;
+	border-color: white;
 	box-shadow: 1px 3px;
 }
 
@@ -70,7 +70,7 @@
 	text-align:left;
 	color: White;
 	padding:15px 32px;
-	background-color: black;
+	border-color: white;
 }
 
 #intro{
@@ -91,12 +91,12 @@
 /*Paragraphs*/
 
  a {
- 	color: black;
+ 	color: white;
  	text-decoration: none;
  	}
 
  a:hover{
- 	color: black;
+ 	color: red;
  	margin: 3px 3px;
  	text-decoration: underline;
  	text-shadow: none;
@@ -112,7 +112,7 @@
  padding: -5px;
  margin-bottom: 200px;
  margin-top: 69px;
- text-shadow: blue 5px 0 5px;
+ text-shadow: red 5px 0 5px;
 }
 
 #her{
